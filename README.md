@@ -14,14 +14,14 @@ Hold a key (Right ⌘ on the Mac, Right Ctrl on Windows), speak, and let go: the
 text is typed wherever your cursor is. The words appear as you speak, beside
 the pointer or wherever you put the window.
 
-![The dictation window, words arriving](images/typing.png)
+<img src="images/typing.png" width="456" alt="The dictation window, words arriving">
 
 ## Calls
 
 A small HUD in the corner of the screen records both sides of a call, you and
 them, and shows the transcript live. Each session is saved as a Markdown file.
 
-![The HUD open on a call's live transcript](images/calls.png)
+<img src="images/calls.png" width="496" alt="The HUD open on a call's live transcript">
 
 ## Settings
 
