@@ -3,6 +3,11 @@
 Live transcription and dictation for macOS and Windows, in any language —
 even switching languages mid-sentence.
 
+**Bring your own key (BYOK).** Voi talks to [Soniox](https://soniox.com), the
+speech recognition behind it, directly with your own API key. There is no Voi
+account, no subscription and no server in between: your audio goes from your
+computer straight to Soniox, and you pay Soniox only for what you use.
+
 ## Typing
 
 Hold a key (Right ⌘ on the Mac, Right Ctrl on Windows), speak, and let go: the
@@ -44,12 +49,12 @@ not signed, so Windows may show "Windows protected your PC": click
 **More info**, then **Run anyway**. Running a newer `.exe` updates Voi in
 place; your settings, key and transcripts are kept.
 
-## Soniox key
+## Your Soniox key
 
-Voi uses [Soniox](https://soniox.com) for speech recognition, with your own
-API key: sign up at [console.soniox.com/signup](https://console.soniox.com/signup/),
-create a key, and paste it into Voi's Settings. It is kept on your computer
-only.
+Sign up at [console.soniox.com/signup](https://console.soniox.com/signup/),
+create an API key, and paste it into Voi's Settings → General. It is kept on
+your computer only. Apart from Soniox, the one place Voi connects to is this
+page on GitHub, to check for updates.
 
 ## Updates
 
