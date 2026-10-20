@@ -1,12 +1,29 @@
 # Voi
 
-Live transcription and dictation for macOS and Windows, in Ukrainian, Russian
-and English — including switching language mid-sentence.
+Live transcription and dictation for macOS and Windows, in any language —
+even switching languages mid-sentence.
 
-- **Dictation.** Hold a key (Right ⌘ on the Mac, Right Ctrl on Windows), speak,
-  let go: the text is typed wherever your cursor is.
-- **Calls.** A small HUD records both sides of a call and writes the
-  transcript, one Markdown file per session.
+## Typing
+
+Hold a key (Right ⌘ on the Mac, Right Ctrl on Windows), speak, and let go: the
+text is typed wherever your cursor is. The words appear as you speak, beside
+the pointer or wherever you put the window.
+
+![The dictation window, words arriving](images/typing.png)
+
+## Calls
+
+A small HUD in the corner of the screen records both sides of a call, you and
+them, and shows the transcript live. Each session is saved as a Markdown file.
+
+![The HUD open on a call's live transcript](images/calls.png)
+
+## Settings
+
+<p>
+  <img src="images/settings-general.png" width="49%" alt="Settings: Soniox key, languages, startup">
+  <img src="images/settings-dictation.png" width="49%" alt="Settings: the dictation key, mode and window">
+</p>
 
 ## Download
 
